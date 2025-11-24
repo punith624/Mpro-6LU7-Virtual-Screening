@@ -1,0 +1,13 @@
+receptor = D:\Downloads\protein-ligand-docking-pipeline\docking\protein.pdbqt
+ligand = pose0.pdbqt
+
+center_x = -10.0
+center_y = 12.5
+center_z = 68.0
+
+size_x = 20
+size_y = 20
+size_z = 20
+
+exhaustiveness = 8
+num_modes = 9
