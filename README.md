@@ -152,6 +152,13 @@ If you find this useful:
 ✅ Share it on LinkedIn
 ✅ Fork & contribute
 
+## 👥 Contributors
+
+| Name | Role |
+|------|------|
+| **Punith Kumar** | Project author, workflow design, scripting, documentation |
+
+
 ## 📚 Citation
 
 If you use this workflow in your research or publication, please cite:
