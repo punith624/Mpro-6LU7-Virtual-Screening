@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square">
 </p>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17700120.svg)](https://doi.org/10.5281/zenodo.17700120)
+
 
 # 📌 Project Overview
 
