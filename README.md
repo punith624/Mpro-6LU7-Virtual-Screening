@@ -15,9 +15,8 @@
   <img src="https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square">
 </p>
 
-# 🧪 Mpro-6LU7-Virtual-Screening
 
-📌 Project Overview
+# 📌 Project Overview
 
 This repository provides a fully automated docking workflow for the SARS-CoV-2 Main Protease (Mpro, PDB ID: 6LU7), including:
 
