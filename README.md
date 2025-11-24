@@ -1,5 +1,21 @@
-# 🧪 Mpro-6LU7-Virtual-Screening
+<p align="center">
+  <img src="assets/banner.png" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/punith624/Mpro-6LU7-Virtual-Screening/stargazers">
+    <img src="https://img.shields.io/github/stars/punith624/Mpro-6LU7-Virtual-Screening?style=flat-square">
+  </a>
+  <a href="https://github.com/punith624/Mpro-6LU7-Virtual-Screening/issues">
+    <img src="https://img.shields.io/github/issues/punith624/Mpro-6LU7-Virtual-Screening?style=flat-square">
+  </a>
+  <a href="https://github.com/punith624/Mpro-6LU7-Virtual-Screening/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square">
+  </a>
+  <img src="https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square">
+</p>
+
+# 🧪 Mpro-6LU7-Virtual-Screening
 End-to-end virtual screening workflow for SARS-CoV-2 Mpro (6LU7) using AutoDock Vina, Python automation, and PyMOL visualization.
 
 <img src="assets/banner.png" width="100%">
