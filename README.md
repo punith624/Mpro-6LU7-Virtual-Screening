@@ -16,9 +16,7 @@
 </p>
 
 # 🧪 Mpro-6LU7-Virtual-Screening
-End-to-end virtual screening workflow for SARS-CoV-2 Mpro (6LU7) using AutoDock Vina, Python automation, and PyMOL visualization.
 
-<img src="assets/banner.png" width="100%">
 📌 Project Overview
 
 This repository provides a fully automated docking workflow for the SARS-CoV-2 Main Protease (Mpro, PDB ID: 6LU7), including:
