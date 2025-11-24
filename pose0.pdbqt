@@ -1,0 +1,17 @@
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_7  and  C_8 
+ROOT
+ATOM      1  HN  02J C   1     -33.343  13.736  57.152  1.00  0.00     0.195 HD
+HETATM    2  C4  02J C   1     -34.779  15.839  55.214  1.00 54.38     0.045 A 
+HETATM    3  C5  02J C   1     -34.719  16.471  56.476  1.00 63.03     0.102 A 
+HETATM    4  C6  02J C   1     -35.238  17.862  56.813  1.00 64.36     0.061 C 
+HETATM    5  O1  02J C   1     -34.140  15.644  57.296  1.00 63.01    -0.240 OA
+HETATM    6  N   02J C   1     -33.808  14.522  56.699  1.00 56.79    -0.256 N 
+HETATM    7  CA  02J C   1     -34.166  14.561  55.413  1.00 50.26     0.122 A 
+ENDROOT
+BRANCH   7   8
+HETATM    8  C   02J C   1     -33.963  13.455  54.365  1.00 47.56     0.253 C 
+HETATM    9  O   02J C   1     -33.638  12.372  54.708  1.00 47.13    -0.281 OA
+ENDBRANCH   7   8
+TORSDOF 1
