@@ -151,3 +151,13 @@ If you find this useful:
 ✅ Star ⭐ the repo
 ✅ Share it on LinkedIn
 ✅ Fork & contribute
+
+## 📚 Citation
+
+If you use this workflow in your research or publication, please cite:
+
+**Punith Kumar**  
+*Mpro-6LU7 Virtual Screening Workflow using AutoDock Vina and PyMOL*  
+GitHub Repository, 2025  
+https://github.com/punith624/Mpro-6LU7-Virtual-Screening
+
