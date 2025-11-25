@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/punith624/Mpro-6LU7-Virtual-Screening/stargazers">
+  <a href="https://github.com/punith624/Virtual Screening of SARS-CoV-2 Mpro (6LU7) Using AutoDock Vina/stargazers">
     <img src="https://img.shields.io/github/stars/punith624/Mpro-6LU7-Virtual-Screening?style=flat-square">
   </a>
-  <a href="https://github.com/punith624/Mpro-6LU7-Virtual-Screening/issues">
+  <a href="https://github.com/punith624/Virtual Screening of SARS-CoV-2 Mpro (6LU7) Using AutoDock Vina/issues">
     <img src="https://img.shields.io/github/issues/punith624/Mpro-6LU7-Virtual-Screening?style=flat-square">
   </a>
-  <a href="https://github.com/punith624/Mpro-6LU7-Virtual-Screening/blob/main/LICENSE">
+  <a href="https://github.com/punith624/Virtual Screening of SARS-CoV-2 Mpro (6LU7) Using AutoDock Vina/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square">
   </a>
   <img src="https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square">
