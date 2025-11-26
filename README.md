@@ -5,7 +5,7 @@
 <h1 align="center">Virtual Screening of SARS-CoV-2 M<sup>pro</sup> (6LU7) Using AutoDock Vina</h1>
 
 <p align="center">
-  <strong>Automated protein preparation, ligand processing, batch docking, scoring, and visualization</strong>
+  <strong>Automated protein preparation, ligand processing, scoring, and visualization</strong>
 </p>
 
 <p align="center">
