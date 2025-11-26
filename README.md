@@ -48,6 +48,19 @@ Perfect for:
 🔹 Drug discovery learning
 🔹 Screening workflow templates
 
+## ✅ Notebook Purpose
+
+This notebook analyzes AutoDock Vina docking output from the  
+*Mpro (6LU7) virtual screening pipeline*, including:
+
+- Loading generated docking scores
+- Ranking ligands by binding affinity
+- Visualizing results
+- Identifying the best-scoring ligand
+
+# 📌 Run it here:  
+➡️ [Open in Google Colab](https://colab.research.google.com/github/punith624/Mpro-6LU7-Virtual-Screening/blob/main/notebooks/run_analysis.ipynb)
+
 
 ## 🔁 Workflow Overview
 
@@ -197,10 +210,7 @@ https://github.com/punith624/Mpro-6LU7-Virtual-Screening
 
  ## 🚀 Run This Project
 
-Clone repository:
-
-```bash
-git clone https://github.com/punith624/Mpro-6LU7-Virtual-Screening.git
-cd Mpro-6LU7-Virtual-Screening
+ # launch instantly in Colab 👇
+<p align="left"> <a href="https://colab.research.google.com/github/punith624/Mpro-6LU7-Virtual-Screening/blob/main/notebooks/run_analysis.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/> </a> </p> ```
 
 
