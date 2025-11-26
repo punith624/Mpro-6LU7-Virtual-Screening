@@ -128,7 +128,7 @@ results/report/6LU7_single_ligand_report.docx
 # 📌 Docked Pose Image
 
 <p align="center">
-  <img src="" width="500">
+  <img src="results/images/pose0.png" width="500">
 </p>
 
 
