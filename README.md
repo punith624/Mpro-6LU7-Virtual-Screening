@@ -1,19 +1,27 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" />
+  <img src="assets/banner.png" width="900">
+</p>
+
+<h1 align="center">Virtual Screening of SARS-CoV-2 M<sup>pro</sup> (6LU7) Using AutoDock Vina</h1>
+
+<p align="center">
+  <strong>Automated protein preparation, ligand processing, batch docking, scoring, and visualization</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/punith624/Virtual Screening of SARS-CoV-2 Mpro (6LU7) Using AutoDock Vina/stargazers">
-    <img src="https://img.shields.io/github/stars/punith624/Mpro-6LU7-Virtual-Screening?style=flat-square">
-  </a>
-  <a href="https://github.com/punith624/Virtual Screening of SARS-CoV-2 Mpro (6LU7) Using AutoDock Vina/issues">
-    <img src="https://img.shields.io/github/issues/punith624/Mpro-6LU7-Virtual-Screening?style=flat-square">
-  </a>
-  <a href="https://github.com/punith624/Virtual Screening of SARS-CoV-2 Mpro (6LU7) Using AutoDock Vina/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square">
-  </a>
-  <img src="https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
+  <img src="https://img.shields.io/badge/Python-3.8+-blue.svg">
+  <img src="https://img.shields.io/badge/AutoDock-Vina-orange.svg">
+  <img src="https://img.shields.io/badge/PyMOL-Visualization-red.svg">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Mac-yellow.svg">
 </p>
+
+<p align="center">
+  <a href="https://colab.research.google.com/github/punith624/Mpro-6LU7-Virtual-Screening/blob/main/notebooks/run_analysis.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+  </a>
+</p>
+
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17700120.svg)](https://doi.org/10.5281/zenodo.17700120)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
