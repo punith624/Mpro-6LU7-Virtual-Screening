@@ -195,3 +195,12 @@ If you use this workflow in your research or publication, please cite:
 GitHub Repository, 2025  
 https://github.com/punith624/Mpro-6LU7-Virtual-Screening
 
+ ## 🚀 Run This Project
+
+Clone repository:
+
+```bash
+git clone https://github.com/punith624/Mpro-6LU7-Virtual-Screening.git
+cd Mpro-6LU7-Virtual-Screening
+
+
