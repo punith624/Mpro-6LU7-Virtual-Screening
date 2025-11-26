@@ -59,7 +59,7 @@ This notebook analyzes AutoDock Vina docking output from the
 - Identifying the best-scoring ligand
 
 # 📌 Run it here:  
-➡️ [Open in Google Colab](https://colab.research.google.com/github/punith624/Mpro-6LU7-Virtual-Screening/blob/main/notebooks/run_analysis.ipynb)
+https://colab.research.google.com/github/punith624/Mpro-6LU7-Virtual-Screening/blob/main/notebooks/run_analysis.ipynb
 
 
 ## 🔁 Workflow Overview
