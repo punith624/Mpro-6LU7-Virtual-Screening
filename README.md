@@ -85,6 +85,7 @@ PDB ID	6LU7
 Organism	SARS-CoV-2
 Function	Viral polyprotein cleavage
 Drug relevance	Antiviral target
+
 # 🛠 Requirements
 
 ✅ AutoDock Vina
@@ -126,7 +127,9 @@ results/report/6LU7_single_ligand_report.docx
 
 # 📌 Docked Pose Image
 
-results/images/pose0.png
+<p align="center">
+  <img src="" width="500">
+</p>
 
 
 # 📌 Automated Report
