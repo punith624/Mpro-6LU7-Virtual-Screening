@@ -134,7 +134,10 @@ results/report/6LU7_single_ligand_report.docx
 
 # 📌 Automated Report
 
-results/report/6LU7_single_ligand_report.docx
+<p align="center">
+  <img src="results/interaction_images/6lu7_pose0.png" width="500">
+</p>
+
 
 # ⚙️ Docking Parameters (config.txt)
 receptor = docking/protein.pdbqt
