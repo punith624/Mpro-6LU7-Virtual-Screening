@@ -52,7 +52,7 @@ Perfect for:
 ## 🔁 Workflow Overview
 
 <p align="center">
-  <img src="D:\Downloads\Workflow.png" width="650">
+  <img src="assets/Workflow.png" width="650">
 </p>
 
 graph TD
