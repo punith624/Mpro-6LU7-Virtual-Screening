@@ -48,7 +48,13 @@ Perfect for:
 🔹 Drug discovery learning
 🔹 Screening workflow templates
 
-# 🚀 Workflow Summary
+
+## 🔁 Workflow Overview
+
+<p align="center">
+  <img src="assets/workflow.png" width="650">
+</p>
+
 graph TD
 A[Download 6LU7 Protein] --> B[Prepare Protein & Ligand]
 B --> C[Run Docking (AutoDock Vina)]
